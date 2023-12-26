@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/shopify-7AB55CE?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/font_awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white">
 <img src="https://img.shields.io/badge/mdx-1B1F24?style=for-the-badge&logo=mdx&logoColor=white">
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 </div>
 <div align="center">
 <h2>🧡 Fave infra</h2>
