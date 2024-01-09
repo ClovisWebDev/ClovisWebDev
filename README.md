@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img src="images/laptop-open.jpg">
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -28,13 +28,13 @@
 <div align="center">
 <h2>📫 Reach Me</h2>
     <a href="https://github.com/KitsapCreator">
-        <img src="https://img.shields.io/badge/github-@KitsapCreator-181717?style=for-the-badge&logo=github" alt="Github">
+        <img src="https://img.shields.io/badge/@KitsapCreator-010409?style=for-the-badge&logo=github" alt="Github">
     </a>
     <a href="https://twitter.com/cloviswebdev">
-        <img src="https://img.shields.io/badge/twitter/x-@cloviswebdev-blue?style=for-the-badge&logo=x" alt="Twitter/X">
+        <img src="https://img.shields.io/badge/@cloviswebdev-blue?style=for-the-badge&logo=x" alt="Twitter/X">
     </a>
     <a href="https://www.linkedin.com/in/clovisdaymartin/">
-        <img src="https://img.shields.io/badge/linkedin-Clovis_Martin-0A66C2?style=for-the-badge&logo=linkedin" alt="Linkedin">
+        <img src="https://img.shields.io/badge//in/clovisdaymartin-0A66C2?style=for-the-badge&logo=linkedin" alt="Linkedin">
     </a>
 </div>
 <div align="center">
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
 <img src="https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
 <img src="https://img.shields.io/badge/raspberry_pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
 <img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black">
