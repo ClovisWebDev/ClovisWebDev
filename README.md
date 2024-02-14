@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjllenZ1aG0zdnRueWR3NXJrN2tmd2tyeGV4bXlmdnk3MnNhbHhkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200">
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/pronouns-he/him-purple">
-<img src="https://img.shields.io/badge/building-websites-0066ff">
-<img src="https://img.shields.io/badge/learning-web_tech-brightgreen">
+<img src="https://img.shields.io/badge/pronouns-he/him-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/building-websites-0066ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/learning-web_tech-brightgreen?style=for-the-badge">
 </div>
 <h1 align="center">
   Hello World!
@@ -20,8 +20,7 @@
 
 - 👨‍🎓 Currently learning Next.js and TypeScript
 
-- 🏢 I run my company in my spare time, hoping to make it my full-time job - check it out below!  
-  👇👇👇
+- 🏢 I run my company in my spare time, hoping to make it my full-time job - check it out below!
 
 [![Hostphyl](https://img.shields.io/badge/hostphyl-hostphyl.com-0066ff?style=for-the-badge)](https://hostphyl.com)
 
@@ -45,7 +44,6 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/radix_ui-061618?style=for-the-badge&logo=radixui&logoColor=white">
 <img src="https://img.shields.io/badge/shopify-7AB55CE?style=for-the-badge&logo=shopify&logoColor=white">
