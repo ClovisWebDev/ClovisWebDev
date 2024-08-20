@@ -20,7 +20,7 @@
 
 - 👨‍🎓 Currently learning Next.js and TypeScript
 
-- 🏢 I run my company in my spare time, hoping to make it my full-time job - check it out below!
+- 🏢 I run my company in my spare time, hoping to make it my full-time job.
 
 [![Hostphyl](https://img.shields.io/badge/hostphyl-hostphyl.com-0066ff?style=for-the-badge)](https://hostphyl.com)
 
@@ -50,12 +50,13 @@
 <img src="https://img.shields.io/badge/font_awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white">
 <img src="https://img.shields.io/badge/mdx-1B1F24?style=for-the-badge&logo=mdx&logoColor=white">
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+<img src="https://img.shields.io/badge/mkdocs_+_material_theme-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white">
 </div>
 <div align="center">
 <h2>🧡 Fave infra</h2>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white">
+<img src="https://img.shields.io/badge/turso-15252B?style=for-the-badge&logo=turso&logoColor=4FF8D2">
 <img src="https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
