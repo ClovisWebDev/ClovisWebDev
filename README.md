@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="images/laptop-open.jpg">
+<img src="images/laptop.jpg">
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -49,15 +49,16 @@
 <img src="https://img.shields.io/badge/shopify-7AB55CE?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/font_awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white">
 <img src="https://img.shields.io/badge/mdx-1B1F24?style=for-the-badge&logo=mdx&logoColor=white">
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+<img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
 <img src="https://img.shields.io/badge/mkdocs_+_material_theme-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white">
+
 </div>
 <div align="center">
 <h2>🧡 Fave infra</h2>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
 <img src="https://img.shields.io/badge/turso-15252B?style=for-the-badge&logo=turso&logoColor=4FF8D2">
-<img src="https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
+<img src="https://img.shields.io/badge/paddle-fDDD35?style=for-the-badge&logo=paddle&logoColor=black">
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
 <img src="https://img.shields.io/badge/plausible_analytics-5850EC?style=for-the-badge&logo=plausibleanalytics&logoColor=white">
@@ -71,7 +72,7 @@
 <img src="https://img.shields.io/badge/apple-white?style=for-the-badge&logo=apple&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
-<img src="https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white">
 <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
 <img src="https://img.shields.io/badge/raspberry_pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
