@@ -26,8 +26,8 @@
 
 <div align="center">
 <h2>📫 Reach Me</h2>
-    <a href="https://github.com/KitsapCreator">
-        <img src="https://img.shields.io/badge/@KitsapCreator-010409?style=for-the-badge&logo=github" alt="Github">
+    <a href="https://github.com/ClovisWebDev">
+        <img src="https://img.shields.io/badge/@ClovisWebDev-010409?style=for-the-badge&logo=github" alt="Github">
     </a>
     <a href="https://twitter.com/cloviswebdev">
         <img src="https://img.shields.io/badge/@cloviswebdev-blue?style=for-the-badge&logo=x" alt="Twitter/X">
@@ -80,7 +80,7 @@
 </div>
 <div align="center">
 <h2>Stats</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kitsapcreator&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cloviswebdev&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak">
 </div>
 <div align="center">
 <h2>That's it for now, folks!</h2>
