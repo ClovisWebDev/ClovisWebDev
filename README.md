@@ -80,7 +80,7 @@
 </div>
 <div align="center">
 <h2>Stats</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cloviswebdev&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ClovisWebDev&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak">
 </div>
 <div align="center">
 <h2>That's it for now, folks!</h2>
