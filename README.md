@@ -16,13 +16,13 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-**I'm a web developer from the Pacific Northwest, USA. I love tech, especially building websites. I'm also starting my own web design company.**
+**I'm a self-taught web designer and developer with a passion for creating beautiful websites and digital experiences. Currently working in the greater Seattle, WA area.**
 
-- 👨‍🎓 Currently learning Next.js and TypeScript
+*My web browser is my canvas, code editor my pallet, my keyboard the paintbrush, my laptop the easel, and the internet the gallery. I love to create and share my work with the world. Sometimes ideas just need to get out of my head and onto the digital page.*
 
-- 🏢 I run my company in my spare time, hoping to make it my full-time job.
+I'm Founder, Owner, and CEO of Hostphyl Web Design, a web design studio.
 
-[![Hostphyl](https://img.shields.io/badge/hostphyl-hostphyl.com-0066ff?style=for-the-badge)](https://hostphyl.com)
+[![Hostphyl](https://img.shields.io/badge/hostphyl_web_design-hostphyl.com-0066ff?style=for-the-badge)](https://hostphyl.com)
 
 <div align="center">
 <h2>📫 Reach Me</h2>
@@ -43,23 +43,21 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/tanstack-000000?style=for-the-badge&logo=tanstack&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/radix_ui-061618?style=for-the-badge&logo=radixui&logoColor=white">
-<img src="https://img.shields.io/badge/shopify-7AB55CE?style=for-the-badge&logo=shopify&logoColor=white">
 <img src="https://img.shields.io/badge/font_awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white">
 <img src="https://img.shields.io/badge/mdx-1B1F24?style=for-the-badge&logo=mdx&logoColor=white">
-<img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
-<img src="https://img.shields.io/badge/mkdocs_+_material_theme-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 
 </div>
 <div align="center">
 <h2>🧡 Fave infra</h2>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
-<img src="https://img.shields.io/badge/turso-15252B?style=for-the-badge&logo=turso&logoColor=4FF8D2">
-<img src="https://img.shields.io/badge/paddle-fDDD35?style=for-the-badge&logo=paddle&logoColor=black">
+<img src="https://img.shields.io/badge/convex-EE342F?style=for-the-badge&logo=convex&logoColor=white">
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
 <img src="https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
 <img src="https://img.shields.io/badge/plausible_analytics-5850EC?style=for-the-badge&logo=plausibleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/jsdelivr-E84D3D?style=for-the-badge&logo=jsdelivr&logoColor=white">
@@ -72,11 +70,13 @@
 <img src="https://img.shields.io/badge/apple-white?style=for-the-badge&logo=apple&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
-<img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white">
 <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
-<img src="https://img.shields.io/badge/raspberry_pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+<img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
 <img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black">
+<img src="https://img.shields.io/badge/vite-16171d?style=for-the-badge&logo=vite&logoColor=9134ff">
+<img src="https://img.shields.io/badge/vitest-16171d?style=for-the-badge&logo=vitest&logoColor=00FF74">
+<img src="https://img.shields.io/badge/rolldown-16171d?style=for-the-badge&logo=rolldown&logoColor=FF4100">
+<img src="https://img.shields.io/badge/oxc-16171d?style=for-the-badge&logo=oxc&logoColor=00F7F1">
 </div>
 <div align="center">
 <h2>Stats</h2>
